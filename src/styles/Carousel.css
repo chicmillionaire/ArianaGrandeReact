@@ -1,0 +1,7 @@
+.carousel_wrapper {
+  overflow: hidden;
+}
+
+.carousel_image {
+  background-size: cover !important;
+}
